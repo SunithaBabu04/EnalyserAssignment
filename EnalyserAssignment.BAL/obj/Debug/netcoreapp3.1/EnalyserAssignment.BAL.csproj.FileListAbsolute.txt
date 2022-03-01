@@ -1,0 +1,13 @@
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.BAL\bin\Debug\netcoreapp3.1\EnalyserAssignment.BAL.deps.json
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.BAL\bin\Debug\netcoreapp3.1\EnalyserAssignment.BAL.dll
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.BAL\bin\Debug\netcoreapp3.1\EnalyserAssignment.BAL.pdb
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.BAL\bin\Debug\netcoreapp3.1\EnalyserAssignment.DAL.dll
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.BAL\bin\Debug\netcoreapp3.1\EnalyserAssignment.DAL.pdb
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.BAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.BAL.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.BAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.BAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.BAL.AssemblyInfoInputs.cache
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.BAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.BAL.AssemblyInfo.cs
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.BAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.BAL.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.BAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.BAL.csproj.CopyComplete
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.BAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.BAL.dll
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.BAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.BAL.pdb

@@ -1,0 +1,13 @@
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.DAL\bin\Debug\netcoreapp3.1\EnalyserAssignment.DAL.deps.json
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.DAL\bin\Debug\netcoreapp3.1\EnalyserAssignment.DAL.dll
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.DAL\bin\Debug\netcoreapp3.1\EnalyserAssignment.DAL.pdb
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.DAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.DAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.DAL.AssemblyInfoInputs.cache
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.DAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.DAL.AssemblyInfo.cs
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.DAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.DAL.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.DAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.DAL.dll
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.DAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.DAL.pdb
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.DAL\bin\Debug\netcoreapp3.1\EnalyserAssignment.DAL.runtimeconfig.json
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.DAL\bin\Debug\netcoreapp3.1\EnalyserAssignment.DAL.runtimeconfig.dev.json
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.DAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.DAL.genruntimeconfig.cache
+C:\Users\sunit\source\repos\EnalyserAssignment\EnalyserAssignment.DAL\obj\Debug\netcoreapp3.1\EnalyserAssignment.DAL.csproj.AssemblyReference.cache
